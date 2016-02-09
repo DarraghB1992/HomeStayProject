@@ -1,0 +1,382 @@
+*{
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	box-sizing:border-box;
+
+}
+
+body{
+
+	font-family: Dosis, sans-serif;
+	color: black;
+	background-color: #ff8b1e;
+
+}
+
+video{
+	display: flex;
+	width: 80%;
+	-webkit-filter:drop-shadow(17px 17px 20px black); hue-rotate(60deg); opacity(.5);
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+nav{
+	display: flex;
+	width: 100%;
+	flex-direction:column;
+	align-items:stretch;
+	font-family: Dosis;
+	margin: auto;
+	padding: 0;
+	background-color: #FF8B1E;
+	flex:1;
+
+}
+
+nav a {
+	text-decoration: none;
+	
+	
+	text-align: center;
+	
+	padding:20px 20px 20px 20px;
+	font-size: 2em;
+}
+
+#topcontainer{
+	width: 100%;
+	display:flex;
+	flex-flow: column nowrap;
+	align-items:center;	
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.topbox{
+	font-size: 2em;
+	margin-bottom: 50px;
+
+}
+
+.button {
+	border-radius: 21px;
+	font-family: Arial;
+	color: #ffffff;
+	font-size: 20px;
+	background: #FF8B1E;
+	padding: 10px 20px 10px 20px;
+	border: solid #000 3px;
+	text-decoration: none;
+
+	
+    }
+
+#bottomcontainer{
+	width: 80%;
+	display: flex;
+	flex-flow: column wrap;
+	justify-content:center;	
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.bottombox{
+	flex:1;
+	background-color: #009AE1;
+	margin-right: auto;
+	border: solid 2px grey;
+	margin-bottom: 50px;
+
+}
+.bottombox img{
+	width: 100%;
+	height:100%;
+}
+
+/* CSS specific to Form.html */
+
+#guestformcontainer{
+	display:flex;
+	flex-direction: column;
+	background-image: url(img/country.jpg);
+	background-size: cover;
+	background-repeat:no-repeat;
+	height: 500px;
+}
+#hostformcontainer{
+	display:flex;
+	flex-direction: column;
+	background-image: url(img/hostfamily.jpg);
+	background-size: cover;	
+	background-repeat:no-repeat;
+	background-position:center;
+	height: 500px;
+}
+
+
+#infoBox{
+	flex:1;
+	width:100%;
+	align-items:center;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	color:white;
+	font-size: 2em;
+}
+
+#infoBox h2 {
+	font-size: 2em;
+}
+
+#forms{
+	flex:1;
+}
+
+form{
+    width: 550px;
+ 	margin: auto;
+ }
+
+legend{
+	font-size: 30px;
+	background-color: #FF8B1E;
+    padding: 4px 15px;
+    color:white;
+    border-radius:5px;
+
+}
+            
+label.field{
+    display: block;
+    text-align: right;
+    width: 100px;
+    float: left;
+    color:white;
+}
+
+#terms{
+	color:white;
+}
+
+.field{
+    padding: 6px 8px;
+}
+
+fieldset{
+    width: 550px;
+    border: 1px solid :rgba(255,139,30);
+    border-radius: 20px;
+    clear: both;
+    padding: 20px;
+    margin-bottom: 50px;
+    background-color:rgba(255,139,30,0.7);
+
+}
+
+/*ends forms only CSS */
+
+footer{
+	display: flex;
+	width: 100%;
+	height: 75px;
+	flex-direction:row;
+	align-items:stretch;
+	font-family: Dosis;
+	margin: 30px auto;
+	padding: 0;
+	background-color: #FF8B1E;
+	justify-content:flex-end;
+	
+
+
+	
+
+
+}
+footer a{
+	text-decoration: none;
+}
+footer h2 {
+	
+	color: white;
+	flex:2;
+	
+	
+}
+footer img{
+	width: 50%;
+	height: 50%;	
+	padding: 10px;
+	-webkit-filter:invert(1);
+
+}
+
+footer :hover{
+	-webkit-filter:invert(0.7);
+}
+
+#formtopcontainer{
+		width: 80%;
+		display: flex;
+		flex-flow: column wrap;
+		justify-content:center;	
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
+
+
+	}
+	.topbox{
+		flex:1;
+		margin-right: 5px;
+		margin-left: 5px;
+		
+
+
+				
+
+	}	
+.topbox img{
+		width: 100%;
+		height: 450px;
+		border: 1px solid gray;
+
+
+
+	}
+#familycontainer{
+	width: 90%;
+	
+	display: flex;
+	flex-flow: column nowrap;
+	justify-content:center;	
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+#contactcontainer{
+	display:flex;
+	flex-direction: column;
+	background-image: url(img/contact.jpg);
+	background-size: cover;
+	background-repeat:no-repeat;
+	height: 500px;
+}
+
+
+@media screen and (min-width: 700px){
+	video{
+		margin-bottom: 100px;
+		height: 50%;
+	}
+	
+	body{
+		color: white;
+	}
+	nav {
+		flex-flow:row nowrap;
+
+	}
+
+
+
+	#logoNav{
+		flex:2;
+		font-size: 2.5em;
+		text-align: left;
+
+	}
+
+	#topcontainer{
+		text-align: top;
+		flex-flow:row wrap;
+		background-image: url(img/island.jpg);
+		background-size:cover;
+		background-repeat:no-repeat;
+		background-position:center;		
+		height: 500px;		
+
+	}
+	
+
+	#topcontainer img{
+		opacity: 0.4;
+
+				
+	}
+	#formtopcontainer{
+		width: 100%;
+		display: flex;
+		flex-flow: row nowrap;
+		justify-content:center;	
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
+
+
+	}
+
+
+	
+
+	#bottomcontainer{
+		flex-flow: row wrap;
+		margin-top: 20px;
+		
+
+	}
+	#familycontainer{
+		flex-flow: row wrap;
+		margin-top: 20px;
+	}
+
+	.bottombox{
+		margin-right: 50px;
+		margin-bottom: none;
+
+
+	}
+
+	
+
+}
+
+.guest{
+	background-image: url(img/guest.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:center;		
+	height: 500px;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.host{
+	background-image: url(img/host.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:center;		
+	height: 500px;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+
+
+/* CSS specific to Form.html */
+
+#formsContainer{
+	display:flex;
+	flex-direction: row;
+	background-image:url("img/country.jpg");
+	background-size:cover;
+    background-position: center; 	
+
+/*ends forms only CSS */
+
+}
+

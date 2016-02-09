@@ -1,0 +1,100 @@
+C01	CTY	Carlow	Before 06:30	1587	Population aged 5 years and over
+C02	CTY	Dublin City	Before 06:30	14063	Population aged 5 years and over
+C03	CTY	South Dublin	Before 06:30	8002	Population aged 5 years and over
+C04	CTY	Fingal	Before 06:30	11747	Population aged 5 years and over
+C05	CTY	Dún Laoghaire-Rathdown	Before 06:30	3515	Population aged 5 years and over
+C06	CTY	Kildare	Before 06:30	7695	Population aged 5 years and over
+C07	CTY	Kilkenny	Before 06:30	2333	Population aged 5 years and over
+C08	CTY	Laois	Before 06:30	2736	Population aged 5 years and over
+C09	CTY	Longford	Before 06:30	1178	Population aged 5 years and over
+C10	CTY	Louth	Before 06:30	3907	Population aged 5 years and over
+C11	CTY	Meath	Before 06:30	7644	Population aged 5 years and over
+C12	CTY	Offaly	Before 06:30	2384	Population aged 5 years and over
+C13	CTY	Westmeath	Before 06:30	2569	Population aged 5 years and over
+C14	CTY	Wexford	Before 06:30	4289	Population aged 5 years and over
+C15	CTY	Wicklow	Before 06:30	3973	Population aged 5 years and over
+C16	CTY	Clare	Before 06:30	2346	Population aged 5 years and over
+C17	CTY	Cork City	Before 06:30	2109	Population aged 5 years and over
+C18	CTY	Cork	Before 06:30	9606	Population aged 5 years and over
+C19	CTY	Kerry	Before 06:30	2297	Population aged 5 years and over
+C20	CTY	Limerick City	Before 06:30	956	Population aged 5 years and over
+C21	CTY	Limerick	Before 06:30	2858	Population aged 5 years and over
+C22	CTY	Tipperary North	Before 06:30	1694	Population aged 5 years and over
+C23	CTY	Tipperary South	Before 06:30	2409	Population aged 5 years and over
+C24	CTY	Waterford City	Before 06:30	1341	Population aged 5 years and over
+C25	CTY	Waterford	Before 06:30	1691	Population aged 5 years and over
+C26	CTY	Galway City	Before 06:30	1350	Population aged 5 years and over
+C27	CTY	Galway	Before 06:30	3966	Population aged 5 years and over
+C28	CTY	Leitrim	Before 06:30	477	Population aged 5 years and over
+C29	CTY	Mayo	Before 06:30	2718	Population aged 5 years and over
+C30	CTY	Roscommon	Before 06:30	1228	Population aged 5 years and over
+C31	CTY	Sligo	Before 06:30	976	Population aged 5 years and over
+C32	CTY	Cavan	Before 06:30	2419	Population aged 5 years and over
+C33	CTY	Donegal	Before 06:30	2049	Population aged 5 years and over
+C34	CTY	Monaghan	Before 06:30	1944	Population aged 5 years and over
+C01	CTY	Carlow	06:30-07:00	1776	Population aged 5 years and over
+C02	CTY	Dublin City	06:30-07:00	18569	Population aged 5 years and over
+C03	CTY	South Dublin	06:30-07:00	11191	Population aged 5 years and over
+C04	CTY	Fingal	06:30-07:00	14259	Population aged 5 years and over
+C05	CTY	Dún Laoghaire-Rathdown	06:30-07:00	6693	Population aged 5 years and over
+C06	CTY	Kildare	06:30-07:00	10722	Population aged 5 years and over
+C07	CTY	Kilkenny	06:30-07:00	2812	Population aged 5 years and over
+C08	CTY	Laois	06:30-07:00	3082	Population aged 5 years and over
+C09	CTY	Longford	06:30-07:00	989	Population aged 5 years and over
+C10	CTY	Louth	06:30-07:00	4411	Population aged 5 years and over
+C11	CTY	Meath	06:30-07:00	9981	Population aged 5 years and over
+C12	CTY	Offaly	06:30-07:00	2557	Population aged 5 years and over
+C13	CTY	Westmeath	06:30-07:00	2658	Population aged 5 years and over
+C14	CTY	Wexford	06:30-07:00	4122	Population aged 5 years and over
+C15	CTY	Wicklow	06:30-07:00	6264	Population aged 5 years and over
+C16	CTY	Clare	06:30-07:00	3516	Population aged 5 years and over
+C17	CTY	Cork City	06:30-07:00	3094	Population aged 5 years and over
+C18	CTY	Cork	06:30-07:00	14862	Population aged 5 years and over
+C19	CTY	Kerry	06:30-07:00	3614	Population aged 5 years and over
+C20	CTY	Limerick City	06:30-07:00	1294	Population aged 5 years and over
+C21	CTY	Limerick	06:30-07:00	4598	Population aged 5 years and over
+C22	CTY	Tipperary North	06:30-07:00	2190	Population aged 5 years and over
+C23	CTY	Tipperary South	06:30-07:00	2901	Population aged 5 years and over
+C24	CTY	Waterford City	06:30-07:00	1220	Population aged 5 years and over
+C25	CTY	Waterford	06:30-07:00	2136	Population aged 5 years and over
+C26	CTY	Galway City	06:30-07:00	2202	Population aged 5 years and over
+C27	CTY	Galway	06:30-07:00	5926	Population aged 5 years and over
+C28	CTY	Leitrim	06:30-07:00	694	Population aged 5 years and over
+C29	CTY	Mayo	06:30-07:00	3535	Population aged 5 years and over
+C30	CTY	Roscommon	06:30-07:00	1599	Population aged 5 years and over
+C31	CTY	Sligo	06:30-07:00	1182	Population aged 5 years and over
+C32	CTY	Cavan	06:30-07:00	2188	Population aged 5 years and over
+C33	CTY	Donegal	06:30-07:00	2929	Population aged 5 years and over
+C34	CTY	Monaghan	06:30-07:00	1828	Population aged 5 years and over
+C01	CTY	Carlow	07:01-07:30	2148	Population aged 5 years and over
+C02	CTY	Dublin City	07:01-07:30	26695	Population aged 5 years and over
+C03	CTY	South Dublin	07:01-07:30	17337	Population aged 5 years and over
+C04	CTY	Fingal	07:01-07:30	19375	Population aged 5 years and over
+C05	CTY	Dún Laoghaire-Rathdown	07:01-07:30	12737	Population aged 5 years and over
+C06	CTY	Kildare	07:01-07:30	12969	Population aged 5 years and over
+C07	CTY	Kilkenny	07:01-07:30	4264	Population aged 5 years and over
+C08	CTY	Laois	07:01-07:30	3535	Population aged 5 years and over
+C09	CTY	Longford	07:01-07:30	1234	Population aged 5 years and over
+C10	CTY	Louth	07:01-07:30	4788	Population aged 5 years and over
+C11	CTY	Meath	07:01-07:30	11488	Population aged 5 years and over
+C12	CTY	Offaly	07:01-07:30	3169	Population aged 5 years and over
+C13	CTY	Westmeath	07:01-07:30	3230	Population aged 5 years and over
+C14	CTY	Wexford	07:01-07:30	5710	Population aged 5 years and over
+C15	CTY	Wicklow	07:01-07:30	8952	Population aged 5 years and over
+C16	CTY	Clare	07:01-07:30	5059	Population aged 5 years and over
+C17	CTY	Cork City	07:01-07:30	4818	Population aged 5 years and over
+C18	CTY	Cork	07:01-07:30	22886	Population aged 5 years and over
+C19	CTY	Kerry	07:01-07:30	5447	Population aged 5 years and over
+C20	CTY	Limerick City	07:01-07:30	1802	Population aged 5 years and over
+C21	CTY	Limerick	07:01-07:30	6959	Population aged 5 years and over
+C22	CTY	Tipperary North	07:01-07:30	3021	Population aged 5 years and over
+C23	CTY	Tipperary South	07:01-07:30	4215	Population aged 5 years and over
+C24	CTY	Waterford City	07:01-07:30	1471	Population aged 5 years and over
+C25	CTY	Waterford	07:01-07:30	3111	Population aged 5 years and over
+C26	CTY	Galway City	07:01-07:30	2984	Population aged 5 years and over
+C27	CTY	Galway	07:01-07:30	9096	Population aged 5 years and over
+C28	CTY	Leitrim	07:01-07:30	1267	Population aged 5 years and over
+C29	CTY	Mayo	07:01-07:30	4387	Population aged 5 years and over
+C30	CTY	Roscommon	07:01-07:30	2308	Population aged 5 years and over
+C31	CTY	Sligo	07:01-07:30	2373	Population aged 5 years and over
+C32	CTY	Cavan	07:01-07:30	2838	Population aged 5 years and over
